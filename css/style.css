@@ -11,9 +11,11 @@ h1 {
 	font-size: 36px;
 }
 tr {
-	color: blue;
+	color: black;
 	font-family: Arial;
 }
-#planets {
-	margin: 0 auto;
-} 
+#planets th {
+	font-size: 20px;
+	font-family: Helvetica
+}
+
