@@ -5,6 +5,10 @@ h1 {
 	color: red;
 }
 #planets img {
-	width: 150px; 
-	height: 150px;
+	width: 200px; 
+	height: 200px;
 } 
+body {
+	background-image: plantetimages/space.png; 
+	background-size: cover;
+}
