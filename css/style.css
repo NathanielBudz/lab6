@@ -12,3 +12,9 @@ body {
 	background-image: url('spaceimages/space.png');
 	background-size: cover;
 }
+h1 {
+  text-align: center;
+  color: #333; 
+  font-size: 36px;
+}
+
