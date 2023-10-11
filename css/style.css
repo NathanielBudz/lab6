@@ -1,6 +1,5 @@
 td, th {
 	border: 1px solid;
-
 }
 #planets img {
 	width: 200px; 
@@ -11,8 +10,11 @@ body {
 	background-size: cover;
 }
 h1 {
-  text-align: center;
-  color: #333; 
-  font-size: 36px;
+	text-align: center;
+	color: blue; 
+	font-size: 36px;
 }
-
+td {
+	color: blue;
+	font-family: Arial;
+}
