@@ -10,7 +10,10 @@ h1 {
 	color: blue; 
 	font-size: 36px;
 }
-td {
+tr {
 	color: blue;
 	font-family: Arial;
 }
+#planets {
+	margin: 0 auto;
+} 
